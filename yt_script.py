@@ -18,7 +18,7 @@ Original file is located at
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py
 # import os
-# apikey='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'
+# apikey='Your_Key'
 # os.environ['OPENAI_API_KEY'] = apikey
 # import streamlit as st
 # from langchain.llms import OpenAI
@@ -30,7 +30,7 @@ Original file is located at
 # from langchain.utilities import WikipediaAPIWrapper
 # 
 # # App framework
-# st.title('🦜🔗 YouTube GPT Creator')
+# st.title(' YouTube Script Generator')
 # prompt = st.text_input('Plug in your prompt here')
 # 
 # # Prompt templates
